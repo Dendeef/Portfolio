@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "Self Driving Car",
     description:
-      "This is a machine learning project completely made in  javascript and witouth libraries. Check the README file in the source on instructions",
+      "This is a machine learning project completely made in  javascript and without libraries. Check the README file in the source for instructions",
     image: "/images/car.png",
     tags: ["", "Javascript", ""],
     source: "https://github.com/Dendeef/SelfDrivingCar/blob/main/README.md",
@@ -64,8 +64,8 @@ export const projects = [
     description: "This is the code for this portfolio website.",
     image: "/images/portfolio.png",
     tags: [ " JavaScript", "React", "CSS"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://github.com/Dendeef/Portfolio",
+    visit: "www.dendeef.com",
     id: 9,
   },
   {

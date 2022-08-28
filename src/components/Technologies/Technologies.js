@@ -50,11 +50,11 @@ const Technologies = () => (
       <ListItem>
       <SiGnubash size="3rem" />
         <ListContainer>
-          <ListTitle>Bash scripting</ListTitle>
+          <ListTitle>Shell scripting</ListTitle>
           <ListParagraph>
             Experience with:
             <br/>
-            writing scripts in the UNIX shell
+            writing scripts in BASH
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -65,7 +65,7 @@ const Technologies = () => (
           <ListParagraph>
           Experience with: 
           <br />
-          ARM, x86 and 8086
+           x86 and 8086
            </ListParagraph>
         </ListContainer>
       </ListItem>
